@@ -44,4 +44,7 @@ TaxiNodes.dbc,
 TotemCategory.dbc,
 WMOAreaTable.dbc,
 WorldSafeLocs.dbc,
-WorldStateUI.dbc.
+WorldStateUI.dbc.<br/>
+
+<img width="969" height="673" alt="1" src="https://github.com/user-attachments/assets/020e0501-b1c6-482b-aeaf-759bab61ac06" />
+<img width="1095" height="760" alt="2png" src="https://github.com/user-attachments/assets/a405f6f2-05b3-473c-9ed3-90a155de9c00" />
